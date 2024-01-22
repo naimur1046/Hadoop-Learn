@@ -1,0 +1,3 @@
+org\danvk\hadoop\WordCountMapper.class
+org\danvk\hadoop\WordCount.class
+org\danvk\hadoop\WordCountReducer.class
